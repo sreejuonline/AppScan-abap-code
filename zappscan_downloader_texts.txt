@@ -1,0 +1,26 @@
+Selection texts:
+
+APPL	Application
+CNAM	Program Author
+COMMENT	Ignore Comment Lines
+DYNNR	Screen
+FUNCGRP	Function group
+INCLU	Explode INCLUDEs
+MODIASS	Modification Assistant Changes
+P_CLASS	Class/Interface
+P_MODIFY	Modification Ref. Date
+P_VERS	Version Database
+RB_ALL	ABAP and Dynpro
+RB_CODE	ABAP Program(s)
+RB_DYN	Dynpro Flow Logic
+REPNAME	Program name
+SUBC	Program type
+S_DEVCLA	Package
+S_TR	Transport Request
+UNAM	Last changed By
+
+
+Text symbols:
+
+B01	Mass Download
+B02	Component Download
